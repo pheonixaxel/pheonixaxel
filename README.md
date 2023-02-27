@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017... (depends on how you look at the situation 🤭)<br>📚 I'm currently learning DevOps, Cloud, Linux, Algorithms and data structures, and APIs 🤓<br>🎯 Goals: succeed in a career as a software 🤑(that's a bit far in the future, for now, succeed as a student, fill my head with as much stuff that will help in the far future 🥱)<br>🎲 Fun fact: Some say I talk too much, but some said I could never do it, but look at me, I am doing it 😚</p>
+<p align="left">✨ Creating bugs since 2017... (depends on how you look at the situation 🤭)<br>📚 I'm currently learning DevOps, Cloud, Linux and Algorithms and data structures🤓<br>🎯 Goals: succeed in a career as a software 🤑(that's a bit far in the future, for now, succeed as a student, fill my head with as much stuff that will help in the far future 🥱)<br>🎲 Fun fact: Some say I talk too much, but some said I could never do it, but look at me, I am doing it 😚</p>
 
 ###
 
@@ -53,9 +53,6 @@
   </a>
   <a href="https://www.facebook.com/alex.cimpan0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="alex.cimpan0@yahoo.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 

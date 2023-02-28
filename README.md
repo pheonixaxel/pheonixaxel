@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017... (depends on how you look at the situation 🤭)<br>📚 I'm currently learning DevOps, Cloud, Linux and Algorithms and data structures🤓<br>🎯 Goals: succeed in a career as a software 🤑(that's a bit far in the future, for now, succeed as a student, fill my head with as much stuff that will help in the far future 🥱)<br>🎲 Fun fact: Some say I talk too much, but some said I could never do it, but look at me, I am doing it 😚</p>
+<p align="left">✨ Creating bugs since 2017... (depends on how you look at the situation 🤭)<br>📚 I'm currently learning DevOps, Cloud, Linux and Algorithms and data structures🤓<br>🎯 Goals: succeed in a career as a software engineer 🤑(that's a bit far in the future, for now, succeed as a student, fill my head with as much stuff that will help in the far future 🥱)<br>🎲 Fun fact: Some say I talk too much, but some said I could never do it, but look at me, I am doing it 😚</p>
 
 ###
 
